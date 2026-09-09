@@ -88,7 +88,7 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-token = os.getenv("Access_Token")
+token = st.secrets["Access_Token"]
 
 client = InferenceClient(
     api_key=token
