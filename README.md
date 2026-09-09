@@ -28,18 +28,19 @@ An AI-powered Question Answer application built using Streamlit and Hugging Face
 4. The question is sent to the Hugging Face AI model.
 5. The AI-generated answer is displayed on the screen.
 
+
 ## Project Files
 
-AI-Question-Answer/
-│
-├── hugging_app.py
-├── requirements.txt
-├──Home_page.png
-├──Response.png
-├──Response cont.png
-├──Response cont2.png
-├──Final response.png
-└── README.md
+| File | Description |
+|---|---|
+| `hugging_app.py` | Main Python file for the application |
+| `requirements.txt` | Contains the required Python libraries |
+| `Home_page.png` | Screenshot of the home page |
+| `Response.png` | Screenshot showing the AI response |
+| `Response cont.png` | Screenshot of the response |
+| `Response cont2.png` | Screenshot of the response |
+| `Final response.png` | Screenshot of the final AI response |
+| `README.md` | Project information and details |
 
 ## Project Purpose
 
