@@ -1,5 +1,4 @@
 import streamlit as st
-import os
 from huggingface_hub import InferenceClient
 
 st.set_page_config(
