@@ -4,7 +4,7 @@ An AI-powered Question Answer application built using Streamlit and Hugging Face
 
 ## Live Demo
 
- [Try the AI Question Answer App](https://huggingfacemodelapp-ccxygahsyeuxg56c52s8t3.streamlit.app/)
+ [Try the AI Question Answer App](https://huggingfacemodelapp-wd3nrfwnmv6moxopqrzmuy.streamlit.app/)
 
 ## Technologies Used
 
